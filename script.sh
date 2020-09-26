@@ -6,3 +6,4 @@ nproc
 lsblk
 free -m
 
+cd /home/kairitu
